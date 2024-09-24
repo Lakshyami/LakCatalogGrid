@@ -1,1 +1,1 @@
-# LakCatalogGrid
+# LakCategoryGrid
